@@ -20,4 +20,14 @@ Cybersecurity quiz containing ten questions with score tracking.
 Voice greeting when the application starts.
 User-friendly WPF graphical interface.
 
-
+How to Use
+Start the application.
+Enter your username.
+Ask cybersecurity-related questions.
+Add tasks using:
+add task Finish assignment
+Set reminders using:
+yes remind me in 3 days
+View, update, complete, or delete tasks.
+Click the Quiz button to start the cybersecurity quiz.
+Answer all questions and view your final score.
